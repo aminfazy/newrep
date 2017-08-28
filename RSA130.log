@@ -1,0 +1,239 @@
+Mon Aug 28 13:50:08 2017 -> factmsieve.py (v0.86)
+Mon Aug 28 13:50:08 2017 -> This is client 1 of 1
+Mon Aug 28 13:50:08 2017 -> Running on 8 Cores with 1 hyper-thread per Core
+Mon Aug 28 13:50:08 2017 -> Working with NAME = RSA130
+Mon Aug 28 13:50:08 2017 -> Selected lattice siever: gnfs-lasieve4I13e
+Mon Aug 28 13:50:08 2017 -> Creating param file to detect parameter changes...
+Mon Aug 28 13:50:08 2017 -> Running setup ...
+Mon Aug 28 13:50:08 2017 -> Estimated minimum relations needed: 1.804e+07
+Mon Aug 28 13:50:08 2017 -> cleaning up before a restart
+Mon Aug 28 13:50:08 2017 -> Running lattice siever ...
+Mon Aug 28 13:50:08 2017 -> entering sieving loop
+Mon Aug 28 13:50:08 2017 -> making sieve job for q = 3600000 in 3600000 .. 3612500 as file RSA130.job.T0
+Mon Aug 28 13:50:08 2017 -> making sieve job for q = 3612500 in 3612500 .. 3625000 as file RSA130.job.T1
+Mon Aug 28 13:50:08 2017 -> making sieve job for q = 3625000 in 3625000 .. 3637500 as file RSA130.job.T2
+Mon Aug 28 13:50:08 2017 -> making sieve job for q = 3637500 in 3637500 .. 3650000 as file RSA130.job.T3
+Mon Aug 28 13:50:08 2017 -> making sieve job for q = 3650000 in 3650000 .. 3662500 as file RSA130.job.T4
+Mon Aug 28 13:50:08 2017 -> making sieve job for q = 3662500 in 3662500 .. 3675000 as file RSA130.job.T5
+Mon Aug 28 13:50:09 2017 -> making sieve job for q = 3675000 in 3675000 .. 3687500 as file RSA130.job.T6
+Mon Aug 28 13:50:09 2017 -> making sieve job for q = 3687500 in 3687500 .. 3700000 as file RSA130.job.T7
+Mon Aug 28 13:50:09 2017 -> Lattice sieving algebraic q from 3600000 to 3700000.
+Mon Aug 28 13:50:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 13:50:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 13:50:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 13:50:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 13:50:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 13:50:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 13:50:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 13:50:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 14:32:00 2017 Found 397440 relations, 2.2% of the estimated minimum (18040000).
+Mon Aug 28 14:32:00 2017 LatSieveTime: 2511.76
+Mon Aug 28 14:32:00 2017 -> making sieve job for q = 3700000 in 3700000 .. 3712500 as file RSA130.job.T0
+Mon Aug 28 14:32:00 2017 -> making sieve job for q = 3712500 in 3712500 .. 3725000 as file RSA130.job.T1
+Mon Aug 28 14:32:00 2017 -> making sieve job for q = 3725000 in 3725000 .. 3737500 as file RSA130.job.T2
+Mon Aug 28 14:32:00 2017 -> making sieve job for q = 3737500 in 3737500 .. 3750000 as file RSA130.job.T3
+Mon Aug 28 14:32:00 2017 -> making sieve job for q = 3750000 in 3750000 .. 3762500 as file RSA130.job.T4
+Mon Aug 28 14:32:00 2017 -> making sieve job for q = 3762500 in 3762500 .. 3775000 as file RSA130.job.T5
+Mon Aug 28 14:32:00 2017 -> making sieve job for q = 3775000 in 3775000 .. 3787500 as file RSA130.job.T6
+Mon Aug 28 14:32:00 2017 -> making sieve job for q = 3787500 in 3787500 .. 3800000 as file RSA130.job.T7
+Mon Aug 28 14:32:00 2017 -> Lattice sieving algebraic q from 3700000 to 3800000.
+Mon Aug 28 14:32:00 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 14:32:00 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 14:32:00 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 14:32:00 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 14:32:00 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 14:32:00 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 14:32:00 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 14:32:00 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 15:15:54 2017 Found 800236 relations, 4.4% of the estimated minimum (18040000).
+Mon Aug 28 15:15:54 2017 LatSieveTime: 2633.81
+Mon Aug 28 15:15:54 2017 -> making sieve job for q = 3800000 in 3800000 .. 3812500 as file RSA130.job.T0
+Mon Aug 28 15:15:54 2017 -> making sieve job for q = 3812500 in 3812500 .. 3825000 as file RSA130.job.T1
+Mon Aug 28 15:15:54 2017 -> making sieve job for q = 3825000 in 3825000 .. 3837500 as file RSA130.job.T2
+Mon Aug 28 15:15:54 2017 -> making sieve job for q = 3837500 in 3837500 .. 3850000 as file RSA130.job.T3
+Mon Aug 28 15:15:54 2017 -> making sieve job for q = 3850000 in 3850000 .. 3862500 as file RSA130.job.T4
+Mon Aug 28 15:15:54 2017 -> making sieve job for q = 3862500 in 3862500 .. 3875000 as file RSA130.job.T5
+Mon Aug 28 15:15:54 2017 -> making sieve job for q = 3875000 in 3875000 .. 3887500 as file RSA130.job.T6
+Mon Aug 28 15:15:54 2017 -> making sieve job for q = 3887500 in 3887500 .. 3900000 as file RSA130.job.T7
+Mon Aug 28 15:15:54 2017 -> Lattice sieving algebraic q from 3800000 to 3900000.
+Mon Aug 28 15:15:54 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 15:15:54 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 15:15:54 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 15:15:54 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 15:15:54 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 15:15:54 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 15:15:54 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 15:15:54 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 15:57:01 2017 Found 1195506 relations, 6.6% of the estimated minimum (18040000).
+Mon Aug 28 15:57:01 2017 LatSieveTime: 2467.22
+Mon Aug 28 15:57:01 2017 -> making sieve job for q = 3900000 in 3900000 .. 3912500 as file RSA130.job.T0
+Mon Aug 28 15:57:01 2017 -> making sieve job for q = 3912500 in 3912500 .. 3925000 as file RSA130.job.T1
+Mon Aug 28 15:57:01 2017 -> making sieve job for q = 3925000 in 3925000 .. 3937500 as file RSA130.job.T2
+Mon Aug 28 15:57:01 2017 -> making sieve job for q = 3937500 in 3937500 .. 3950000 as file RSA130.job.T3
+Mon Aug 28 15:57:01 2017 -> making sieve job for q = 3950000 in 3950000 .. 3962500 as file RSA130.job.T4
+Mon Aug 28 15:57:01 2017 -> making sieve job for q = 3962500 in 3962500 .. 3975000 as file RSA130.job.T5
+Mon Aug 28 15:57:01 2017 -> making sieve job for q = 3975000 in 3975000 .. 3987500 as file RSA130.job.T6
+Mon Aug 28 15:57:01 2017 -> making sieve job for q = 3987500 in 3987500 .. 4000000 as file RSA130.job.T7
+Mon Aug 28 15:57:01 2017 -> Lattice sieving algebraic q from 3900000 to 4000000.
+Mon Aug 28 15:57:01 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 15:57:01 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 15:57:01 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 15:57:01 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 15:57:01 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 15:57:01 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 15:57:01 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 15:57:01 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 16:38:56 2017 Found 1598834 relations, 8.9% of the estimated minimum (18040000).
+Mon Aug 28 16:38:56 2017 LatSieveTime: 2514.51
+Mon Aug 28 16:38:56 2017 -> making sieve job for q = 4000000 in 4000000 .. 4012500 as file RSA130.job.T0
+Mon Aug 28 16:38:56 2017 -> making sieve job for q = 4012500 in 4012500 .. 4025000 as file RSA130.job.T1
+Mon Aug 28 16:38:56 2017 -> making sieve job for q = 4025000 in 4025000 .. 4037500 as file RSA130.job.T2
+Mon Aug 28 16:38:56 2017 -> making sieve job for q = 4037500 in 4037500 .. 4050000 as file RSA130.job.T3
+Mon Aug 28 16:38:56 2017 -> making sieve job for q = 4050000 in 4050000 .. 4062500 as file RSA130.job.T4
+Mon Aug 28 16:38:56 2017 -> making sieve job for q = 4062500 in 4062500 .. 4075000 as file RSA130.job.T5
+Mon Aug 28 16:38:56 2017 -> making sieve job for q = 4075000 in 4075000 .. 4087500 as file RSA130.job.T6
+Mon Aug 28 16:38:56 2017 -> making sieve job for q = 4087500 in 4087500 .. 4100000 as file RSA130.job.T7
+Mon Aug 28 16:38:56 2017 -> Lattice sieving algebraic q from 4000000 to 4100000.
+Mon Aug 28 16:38:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 16:38:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 16:38:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 16:38:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 16:38:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 16:38:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 16:38:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 16:38:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 17:20:29 2017 Found 2000252 relations, 11.1% of the estimated minimum (18040000).
+Mon Aug 28 17:20:29 2017 LatSieveTime: 2493.42
+Mon Aug 28 17:20:29 2017 -> making sieve job for q = 4100000 in 4100000 .. 4112500 as file RSA130.job.T0
+Mon Aug 28 17:20:29 2017 -> making sieve job for q = 4112500 in 4112500 .. 4125000 as file RSA130.job.T1
+Mon Aug 28 17:20:29 2017 -> making sieve job for q = 4125000 in 4125000 .. 4137500 as file RSA130.job.T2
+Mon Aug 28 17:20:29 2017 -> making sieve job for q = 4137500 in 4137500 .. 4150000 as file RSA130.job.T3
+Mon Aug 28 17:20:29 2017 -> making sieve job for q = 4150000 in 4150000 .. 4162500 as file RSA130.job.T4
+Mon Aug 28 17:20:29 2017 -> making sieve job for q = 4162500 in 4162500 .. 4175000 as file RSA130.job.T5
+Mon Aug 28 17:20:29 2017 -> making sieve job for q = 4175000 in 4175000 .. 4187500 as file RSA130.job.T6
+Mon Aug 28 17:20:29 2017 -> making sieve job for q = 4187500 in 4187500 .. 4200000 as file RSA130.job.T7
+Mon Aug 28 17:20:29 2017 -> Lattice sieving algebraic q from 4100000 to 4200000.
+Mon Aug 28 17:20:29 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 17:20:29 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 17:20:29 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 17:20:29 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 17:20:29 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 17:20:29 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 17:20:29 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 17:20:29 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 18:02:56 2017 Found 2400578 relations, 13.3% of the estimated minimum (18040000).
+Mon Aug 28 18:02:56 2017 LatSieveTime: 2546.55
+Mon Aug 28 18:02:56 2017 -> making sieve job for q = 4200000 in 4200000 .. 4212500 as file RSA130.job.T0
+Mon Aug 28 18:02:56 2017 -> making sieve job for q = 4212500 in 4212500 .. 4225000 as file RSA130.job.T1
+Mon Aug 28 18:02:56 2017 -> making sieve job for q = 4225000 in 4225000 .. 4237500 as file RSA130.job.T2
+Mon Aug 28 18:02:56 2017 -> making sieve job for q = 4237500 in 4237500 .. 4250000 as file RSA130.job.T3
+Mon Aug 28 18:02:56 2017 -> making sieve job for q = 4250000 in 4250000 .. 4262500 as file RSA130.job.T4
+Mon Aug 28 18:02:56 2017 -> making sieve job for q = 4262500 in 4262500 .. 4275000 as file RSA130.job.T5
+Mon Aug 28 18:02:56 2017 -> making sieve job for q = 4275000 in 4275000 .. 4287500 as file RSA130.job.T6
+Mon Aug 28 18:02:56 2017 -> making sieve job for q = 4287500 in 4287500 .. 4300000 as file RSA130.job.T7
+Mon Aug 28 18:02:56 2017 -> Lattice sieving algebraic q from 4200000 to 4300000.
+Mon Aug 28 18:02:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 18:02:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 18:02:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 18:02:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 18:02:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 18:02:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 18:02:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 18:02:56 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 18:44:47 2017 Found 2797350 relations, 15.5% of the estimated minimum (18040000).
+Mon Aug 28 18:44:47 2017 LatSieveTime: 2511.7
+Mon Aug 28 18:44:47 2017 -> making sieve job for q = 4300000 in 4300000 .. 4312500 as file RSA130.job.T0
+Mon Aug 28 18:44:47 2017 -> making sieve job for q = 4312500 in 4312500 .. 4325000 as file RSA130.job.T1
+Mon Aug 28 18:44:47 2017 -> making sieve job for q = 4325000 in 4325000 .. 4337500 as file RSA130.job.T2
+Mon Aug 28 18:44:47 2017 -> making sieve job for q = 4337500 in 4337500 .. 4350000 as file RSA130.job.T3
+Mon Aug 28 18:44:47 2017 -> making sieve job for q = 4350000 in 4350000 .. 4362500 as file RSA130.job.T4
+Mon Aug 28 18:44:47 2017 -> making sieve job for q = 4362500 in 4362500 .. 4375000 as file RSA130.job.T5
+Mon Aug 28 18:44:47 2017 -> making sieve job for q = 4375000 in 4375000 .. 4387500 as file RSA130.job.T6
+Mon Aug 28 18:44:47 2017 -> making sieve job for q = 4387500 in 4387500 .. 4400000 as file RSA130.job.T7
+Mon Aug 28 18:44:47 2017 -> Lattice sieving algebraic q from 4300000 to 4400000.
+Mon Aug 28 18:44:47 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 18:44:47 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 18:44:47 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 18:44:47 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 18:44:47 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 18:44:47 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 18:44:48 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 18:44:48 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 19:27:44 2017 Found 3204515 relations, 17.8% of the estimated minimum (18040000).
+Mon Aug 28 19:27:44 2017 LatSieveTime: 2576.78
+Mon Aug 28 19:27:44 2017 -> making sieve job for q = 4400000 in 4400000 .. 4412500 as file RSA130.job.T0
+Mon Aug 28 19:27:44 2017 -> making sieve job for q = 4412500 in 4412500 .. 4425000 as file RSA130.job.T1
+Mon Aug 28 19:27:44 2017 -> making sieve job for q = 4425000 in 4425000 .. 4437500 as file RSA130.job.T2
+Mon Aug 28 19:27:44 2017 -> making sieve job for q = 4437500 in 4437500 .. 4450000 as file RSA130.job.T3
+Mon Aug 28 19:27:44 2017 -> making sieve job for q = 4450000 in 4450000 .. 4462500 as file RSA130.job.T4
+Mon Aug 28 19:27:44 2017 -> making sieve job for q = 4462500 in 4462500 .. 4475000 as file RSA130.job.T5
+Mon Aug 28 19:27:44 2017 -> making sieve job for q = 4475000 in 4475000 .. 4487500 as file RSA130.job.T6
+Mon Aug 28 19:27:44 2017 -> making sieve job for q = 4487500 in 4487500 .. 4500000 as file RSA130.job.T7
+Mon Aug 28 19:27:44 2017 -> Lattice sieving algebraic q from 4400000 to 4500000.
+Mon Aug 28 19:27:44 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 19:27:44 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 19:27:44 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 19:27:44 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 19:27:44 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 19:27:44 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 19:27:44 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 19:27:44 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 20:11:20 2017 Found 3619959 relations, 20.1% of the estimated minimum (18040000).
+Mon Aug 28 20:11:20 2017 LatSieveTime: 2615.95
+Mon Aug 28 20:11:20 2017 -> making sieve job for q = 4500000 in 4500000 .. 4512500 as file RSA130.job.T0
+Mon Aug 28 20:11:20 2017 -> making sieve job for q = 4512500 in 4512500 .. 4525000 as file RSA130.job.T1
+Mon Aug 28 20:11:20 2017 -> making sieve job for q = 4525000 in 4525000 .. 4537500 as file RSA130.job.T2
+Mon Aug 28 20:11:20 2017 -> making sieve job for q = 4537500 in 4537500 .. 4550000 as file RSA130.job.T3
+Mon Aug 28 20:11:20 2017 -> making sieve job for q = 4550000 in 4550000 .. 4562500 as file RSA130.job.T4
+Mon Aug 28 20:11:20 2017 -> making sieve job for q = 4562500 in 4562500 .. 4575000 as file RSA130.job.T5
+Mon Aug 28 20:11:20 2017 -> making sieve job for q = 4575000 in 4575000 .. 4587500 as file RSA130.job.T6
+Mon Aug 28 20:11:20 2017 -> making sieve job for q = 4587500 in 4587500 .. 4600000 as file RSA130.job.T7
+Mon Aug 28 20:11:20 2017 -> Lattice sieving algebraic q from 4500000 to 4600000.
+Mon Aug 28 20:11:20 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 20:11:20 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 20:11:20 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 20:11:20 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 20:11:20 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 20:11:20 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 20:11:20 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 20:11:20 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 20:53:09 2017 Found 4020356 relations, 22.3% of the estimated minimum (18040000).
+Mon Aug 28 20:53:09 2017 LatSieveTime: 2508.55
+Mon Aug 28 20:53:09 2017 -> making sieve job for q = 4600000 in 4600000 .. 4612500 as file RSA130.job.T0
+Mon Aug 28 20:53:09 2017 -> making sieve job for q = 4612500 in 4612500 .. 4625000 as file RSA130.job.T1
+Mon Aug 28 20:53:09 2017 -> making sieve job for q = 4625000 in 4625000 .. 4637500 as file RSA130.job.T2
+Mon Aug 28 20:53:09 2017 -> making sieve job for q = 4637500 in 4637500 .. 4650000 as file RSA130.job.T3
+Mon Aug 28 20:53:09 2017 -> making sieve job for q = 4650000 in 4650000 .. 4662500 as file RSA130.job.T4
+Mon Aug 28 20:53:09 2017 -> making sieve job for q = 4662500 in 4662500 .. 4675000 as file RSA130.job.T5
+Mon Aug 28 20:53:09 2017 -> making sieve job for q = 4675000 in 4675000 .. 4687500 as file RSA130.job.T6
+Mon Aug 28 20:53:09 2017 -> making sieve job for q = 4687500 in 4687500 .. 4700000 as file RSA130.job.T7
+Mon Aug 28 20:53:09 2017 -> Lattice sieving algebraic q from 4600000 to 4700000.
+Mon Aug 28 20:53:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 20:53:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 20:53:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 20:53:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 20:53:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 20:53:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 20:53:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 20:53:09 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 21:36:19 2017 Found 4428942 relations, 24.6% of the estimated minimum (18040000).
+Mon Aug 28 21:36:19 2017 LatSieveTime: 2589.75
+Mon Aug 28 21:36:19 2017 -> making sieve job for q = 4700000 in 4700000 .. 4712500 as file RSA130.job.T0
+Mon Aug 28 21:36:19 2017 -> making sieve job for q = 4712500 in 4712500 .. 4725000 as file RSA130.job.T1
+Mon Aug 28 21:36:19 2017 -> making sieve job for q = 4725000 in 4725000 .. 4737500 as file RSA130.job.T2
+Mon Aug 28 21:36:19 2017 -> making sieve job for q = 4737500 in 4737500 .. 4750000 as file RSA130.job.T3
+Mon Aug 28 21:36:19 2017 -> making sieve job for q = 4750000 in 4750000 .. 4762500 as file RSA130.job.T4
+Mon Aug 28 21:36:19 2017 -> making sieve job for q = 4762500 in 4762500 .. 4775000 as file RSA130.job.T5
+Mon Aug 28 21:36:19 2017 -> making sieve job for q = 4775000 in 4775000 .. 4787500 as file RSA130.job.T6
+Mon Aug 28 21:36:19 2017 -> making sieve job for q = 4787500 in 4787500 .. 4800000 as file RSA130.job.T7
+Mon Aug 28 21:36:19 2017 -> Lattice sieving algebraic q from 4700000 to 4800000.
+Mon Aug 28 21:36:19 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T0 -v -n 0 -a RSA130.job.T0
+Mon Aug 28 21:36:19 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T1 -v -n 1 -a RSA130.job.T1
+Mon Aug 28 21:36:19 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T2 -v -n 2 -a RSA130.job.T2
+Mon Aug 28 21:36:19 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T3 -v -n 3 -a RSA130.job.T3
+Mon Aug 28 21:36:19 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T4 -v -n 4 -a RSA130.job.T4
+Mon Aug 28 21:36:19 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T5 -v -n 5 -a RSA130.job.T5
+Mon Aug 28 21:36:19 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T6 -v -n 6 -a RSA130.job.T6
+Mon Aug 28 21:36:19 2017 -> gnfs-lasieve4I13e -k -o spairs.out.T7 -v -n 7 -a RSA130.job.T7
+Mon Aug 28 22:12:37 2017 -> Return value 1. Updating job file and terminating...
+Mon Aug 28 22:12:37 2017 LatSieveTime: 2178.71
